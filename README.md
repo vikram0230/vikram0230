@@ -24,6 +24,8 @@ I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, C
 <a href="mailto:vikramharikrishnan@protonmail.com"><img src="https://github.com/vikram0230/vikram0230/blob/main/logos/proton.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/vikram0230"><img src="https://github.com/vikram0230/vikram0230/blob/main/logos/github-logo.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/vikram_hk"><img src="https://github.com/vikram0230/vikram0230/blob/main/logos/twitter.png" width="50" /></a>
+</a>&nbsp;
+<a href="https://www.kaggle.com/vkrm0230"><img src="https://github.com/vikram0230/vikram0230/blob/main/logos/kaggle.png" width="50" /></a>
 
 <!-- <p align="center">
   <img src="https://github.com/vikram0230/vikram0230/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
