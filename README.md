@@ -9,7 +9,7 @@ I am currently pursuing a Master's degree in Computer Science at the University 
 I'm developing solutions that address significant challenges and make life easier.
 </p>
 
-<p align="center"><img align="center" alt="GIF" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width=400/></p>
+<p align="center"><img align="center" alt="GIF" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width=200/></p>
 
 <h2 align="center">GitHub Analytics</h2>
 
