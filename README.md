@@ -21,7 +21,7 @@ I'm developing solutions that address significant challenges and make life easie
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vikram0230&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vikram0230&currStreakNum=3382ed&background=000000&sideNums=3382ed&currStreakLabel=3382ed&sideLabels=3382ed&hide_border=true"/>
 </p>
 
 <br/>
