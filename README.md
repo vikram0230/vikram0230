@@ -38,9 +38,9 @@ I'm developing solutions that address significant challenges and make life easie
 <a href="mailto:vikramharikrishnan2000@gmail.com">
   <img src="https://github.com/vikram0230/vikram0230/blob/main/logos/gmail.png" width="50" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/vikram0230">
+<!-- <a href="https://github.com/vikram0230">
   <img src="https://github.com/vikram0230/vikram0230/blob/main/logos/github-logo.png" width="50" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;&nbsp; -->
 <a href="https://twitter.com/vikram_hk">
   <img src="https://github.com/vikram0230/vikram0230/blob/main/logos/twitter.png" width="50" />
 </a>
