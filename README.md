@@ -4,7 +4,7 @@
          width="45" />, I'm Vikram Harikrishnan</h1>
          
 <p align="center">
-I am currently pursuing a Master's degree in Computer Science at the University of Illinois Chicago, with a strong focus on AI/ML. 
+I'm currently pursuing a Master's degree in Computer Science at the University of Illinois Chicago, with a strong focus on AI/ML. 
 <br>
 I'm developing solutions that address significant challenges and make life easier.
 </p>
