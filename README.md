@@ -30,11 +30,11 @@ I'm developing solutions that address significant challenges and make life easie
 
 <h2 align="center">Connect with me</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/vikram-harikrishnan">
-  <img src="https://github.com/vikram0230/vikram0230/blob/main/logos/linkedin.png" width="50" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:vikramharikrishnan2000@gmail.com">
   <img src="https://github.com/vikram0230/vikram0230/blob/main/logos/gmail.png" width="50" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/vikram-harikrishnan">
+  <img src="https://github.com/vikram0230/vikram0230/blob/main/logos/linkedin.png" width="50" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/vikram_hk">
   <img src="https://github.com/vikram0230/vikram0230/blob/main/logos/twitter.png" width="50" />
