@@ -9,7 +9,7 @@ I'm currently pursuing a Master's degree in Computer Science at the University o
 I'm developing solutions that address significant challenges and make life easier.
 </p>
 
-<p align="center"><img align="center" alt="GIF" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/trust%20me.gif" height=300/></p>
+<!-- <p align="center"><img align="center" alt="GIF" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/trust%20me.gif" height=300/></p> -->
 <br>
 <p align="center">
   <a href="http://www.github.com/vikram0230"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=vikram0230&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=3382ed&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="Vikram's GitHub stats" height="180em"/>
